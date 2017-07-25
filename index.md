@@ -1,8 +1,9 @@
 ---
 title       : 'Diseño de Experimentos'
-subtitle    : 'Escuela de Microbiología'
+subtitle    : 'Introducción'
 author      : 'Carlos Neftaly Lozano A.'
-job         : 
+job         : 'Microbiólogo Industrial y Ambiental, MsC'
+logo     : EM.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
