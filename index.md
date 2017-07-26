@@ -2,7 +2,7 @@
 title       : 'Diseño de Experimentos'
 subtitle    : 'Introducción'
 author      : 'Carlos Neftaly Lozano A.'
-job         : 'Microbiólogo Industrial y Ambiental, MsC'
+job         : 'Microbiólogo Industrial y Ambiental, Msc'
 logo     : EM.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -142,13 +142,92 @@ __Seguimiento: 35%__
 
 ## Asignaciones 
 
-__Semanales__: 
+<span style="display:block; height: 2cm;"></span>
 
++ Semanales a partir de la segunda clase
 + Documento de _Word_: Máximo 4 páginas
 + Script R
 
 <img src="./figure/policy.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" style="display: block; margin: auto;" />
 
+
+---
+## Quices online
+ 
+<span style="display:block; height: 2cm;"></span>
+
++ <span style="color:orange">Al menos 10 quices aleatorios online.</span>
++ Los das peores notas serán borradas
+
 ---
 
-        
+## EDMODO: Espacio oficial del curso 
+
+<img src="./figure/edmodo.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" style="display: block; margin: auto;" />
+
++ Toda información publicada es considerada oficial 
++ Cualquier contacto conmigo se hará vía mensaje edmodo
++ Dudas y preguntas también serán resueltas por esta plataforma
+
+---
+
+## El curso en resumen...
+
+<span style="display:block; height: 2cm;"></span>
+
+1. Repaso estadísica descriptiva
+
+2. Introducción al Diseño de experimentos
+
+3. Análisis de varianza
+
+4. Métodos no-paramétricos
+
+5. Regresión lineal 
+
+<img src="./figure/nutshell.jpg" title="plot of chunk unnamed-chunk-7" alt="plot of chunk unnamed-chunk-7" style="display: block; margin: auto 0 auto auto;" />
+
+---
+
+
+## Software R 
+
+El desarrollo del curso será asisitido por el uso del paquete estadístico <span style="color:blue">R</span> . 
+
+<span style="display:block; height: 2cm;"></span>
+
+<center><style="color:orange">https://www.r-project.org/</span></center>
+
+<img src="./figure/Rlogo2.png" title="plot of chunk unnamed-chunk-8" alt="plot of chunk unnamed-chunk-8" style="display: block; margin: auto;" />
+
+---
+
+<img src="./figure/rpage.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" />
+
+--- 
+
+## Instalando R 
+
++ Windows:
+
+<center><style="color:orange">https://www.icesi.edu.co/CRAN/bin/windows/base/</span></center>
+
++ Mac: 
+
+<center><style="color:orange">https://www.icesi.edu.co/CRAN/</span></center>
+
+---
+
+## RStudio
+
+Interfaz para manejo amigable de R. 
+
+<span style="display:block; height: 2cm;"></span>
+
+<center><style="color:orange">https://www.rstudio.com/products/rstudio/download/</span></center>
+
+
+
+<img src="./figure/rstudio.png" title="plot of chunk unnamed-chunk-10" alt="plot of chunk unnamed-chunk-10" style="display: block; margin: auto;" />
+
+

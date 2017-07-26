@@ -2,7 +2,7 @@
 title       : 'Diseño de Experimentos'
 subtitle    : 'Introducción'
 author      : 'Carlos Neftaly Lozano A.'
-job         : 'Microbiólogo Industrial y Ambiental, MsC'
+job         : 'Microbiólogo Industrial y Ambiental, Msc'
 logo     : EM.png
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -150,8 +150,9 @@ __Seguimiento: 35%__
 
 ## Asignaciones 
 
-__Semanales__: 
+<span style="display:block; height: 2cm;"></span>
 
++ Semanales a partir de la segunda clase
 + Documento de _Word_: Máximo 4 páginas
 + Script R
 
@@ -159,6 +160,94 @@ __Semanales__:
       knitr::include_graphics('./figure/policy.png')
 ```
 
+
+---
+## Quices online
+ 
+<span style="display:block; height: 2cm;"></span>
+
++ <span style="color:orange">Al menos 10 quices aleatorios online.</span>
++ Los das peores notas serán borradas
+
 ---
 
-        
+## EDMODO: Espacio oficial del curso 
+
+```{r, echo=FALSE,fig.align='center'}
+      knitr::include_graphics('./figure/edmodo.png')
+```
+
++ Toda información publicada es considerada oficial 
++ Cualquier contacto conmigo se hará vía mensaje edmodo
++ Dudas y preguntas también serán resueltas por esta plataforma
+
+---
+
+## El curso en resumen...
+
+<span style="display:block; height: 2cm;"></span>
+
+1. Repaso estadísica descriptiva
+
+2. Introducción al Diseño de experimentos
+
+3. Análisis de varianza
+
+4. Métodos no-paramétricos
+
+5. Regresión lineal 
+
+```{r, echo=FALSE,fig.align='right'}
+      knitr::include_graphics('./figure/nutshell.jpg')
+```
+
+---
+
+
+## Software R 
+
+El desarrollo del curso será asisitido por el uso del paquete estadístico <span style="color:blue">R</span> . 
+
+<span style="display:block; height: 2cm;"></span>
+
+<center><style="color:orange">https://www.r-project.org/</span></center>
+
+```{r, echo=FALSE,fig.align='center'}
+      knitr::include_graphics('./figure/Rlogo2.png')
+```
+
+---
+
+```{r, echo=FALSE,fig.align='center'}
+      knitr::include_graphics('./figure/rpage.png')
+```
+
+--- 
+
+## Instalando R 
+
++ Windows:
+
+<center><style="color:orange">https://www.icesi.edu.co/CRAN/bin/windows/base/</span></center>
+
++ Mac: 
+
+<center><style="color:orange">https://www.icesi.edu.co/CRAN/</span></center>
+
+---
+
+## RStudio
+
+Interfaz para manejo amigable de R. 
+
+<span style="display:block; height: 2cm;"></span>
+
+<center><style="color:orange">https://www.rstudio.com/products/rstudio/download/</span></center>
+
+
+
+```{r, echo=FALSE,fig.align='center'}
+      knitr::include_graphics('./figure/rstudio.png')
+```
+
+
